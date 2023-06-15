@@ -1,0 +1,242 @@
+2023-03-14 16:31:04,561 Starting Bokeh server version 2.4.3 (running on Tornado 6.0.4)
+2023-03-14 16:31:04,563 User authentication hooks NOT provided (default user enabled)
+2023-03-14 16:31:04,580 Bokeh app running at: http://localhost:5015/m3/m3
+2023-03-14 16:31:04,580 Starting Bokeh server with process id: 3627
+2023-03-14 16:31:04,582 Bokeh app running at: http://localhost:5015/m3/m3
+2023-03-14 16:31:04,582 Starting Bokeh server with process id: 3628
+2023-03-14 16:32:00,027 WebSocket connection opened
+2023-03-14 16:32:00,583 ServerConnection created
+2023-03-14 19:03:12,908 WebSocket connection opened
+2023-03-14 19:03:12,908 ServerConnection created
+2023-03-14 19:03:14,974 WebSocket connection closed: code=1001, reason=None
+2023-03-14 19:03:15,887 WebSocket connection opened
+2023-03-14 19:03:15,960 ServerConnection created
+2023-03-14 19:20:31,695 WebSocket connection opened
+2023-03-14 19:20:31,770 ServerConnection created
+2023-03-14 19:21:34,830 WebSocket connection closed: code=None, reason=None
+2023-03-14 19:28:26,675 WebSocket connection opened
+2023-03-14 19:28:26,675 ServerConnection created
+2023-03-14 19:28:26,955 Failed sending message as connection was closed
+2023-03-14 19:28:29,768 Failed sending message as connection was closed
+2023-03-14 19:28:29,768 WebSocket connection closed: code=None, reason=None
+2023-03-14 19:28:58,235 WebSocket connection closed: code=1001, reason=None
+2023-03-14 19:28:58,660 WebSocket connection opened
+2023-03-14 19:28:58,735 ServerConnection created
+2023-03-14 19:36:47,850 WebSocket connection opened
+2023-03-14 19:36:47,922 ServerConnection created
+2023-03-14 19:41:22,807 WebSocket connection closed: code=1001, reason=None
+2023-03-14 19:41:24,978 WebSocket connection opened
+2023-03-14 19:41:25,054 ServerConnection created
+2023-03-14 19:41:38,896 WebSocket connection opened
+2023-03-14 19:41:38,896 ServerConnection created
+2023-03-14 19:42:32,849 WebSocket connection closed: code=1001, reason=None
+2023-03-14 19:42:33,192 WebSocket connection opened
+2023-03-14 19:42:33,264 ServerConnection created
+2023-03-14 19:44:31,753 WebSocket connection closed: code=1001, reason=None
+2023-03-14 19:45:21,017 WebSocket connection opened
+2023-03-14 19:45:21,019 ServerConnection created
+2023-03-14 19:59:07,952 WebSocket connection opened
+2023-03-14 19:59:07,952 ServerConnection created
+2023-03-14 19:59:11,074 WebSocket connection closed: code=1001, reason=None
+2023-03-14 19:59:15,305 WebSocket connection opened
+2023-03-14 19:59:15,379 ServerConnection created
+2023-03-14 20:09:35,189 WebSocket connection closed: code=1001, reason=None
+2023-03-14 20:52:03,698 WebSocket connection opened
+2023-03-14 20:52:03,772 ServerConnection created
+2023-03-14 20:53:06,164 WebSocket connection closed: code=1001, reason=None
+2023-03-14 20:53:25,161 WebSocket connection opened
+2023-03-14 20:53:25,235 ServerConnection created
+2023-03-14 21:14:11,772 WebSocket connection closed: code=1001, reason=None
+2023-03-14 21:32:29,717 WebSocket connection closed: code=None, reason=None
+2023-03-14 21:40:04,643 WebSocket connection closed: code=1001, reason=None
+2023-03-14 21:43:02,385 WebSocket connection closed: code=1001, reason=None
+2023-03-14 21:48:27,035 WebSocket connection closed: code=1001, reason=None
+2023-03-14 22:17:32,914 WebSocket connection opened
+2023-03-14 22:17:32,987 ServerConnection created
+2023-03-14 22:18:16,438 WebSocket connection closed: code=1001, reason=None
+2023-03-14 22:23:12,228 WebSocket connection opened
+2023-03-14 22:23:12,301 ServerConnection created
+2023-03-14 23:01:23,811 WebSocket connection closed: code=None, reason=None
+2023-03-15 01:02:57,464 WebSocket connection opened
+2023-03-15 01:02:57,464 ServerConnection created
+2023-03-15 02:24:31,013 WebSocket connection closed: code=1001, reason=None
+2023-03-15 02:24:32,192 WebSocket connection opened
+2023-03-15 02:24:32,265 ServerConnection created
+2023-03-15 02:57:51,699 WebSocket connection closed: code=None, reason=None
+2023-03-15 06:34:30,302 WebSocket connection opened
+2023-03-15 06:34:30,304 ServerConnection created
+2023-03-15 06:36:26,938 WebSocket connection closed: code=1001, reason=None
+2023-03-15 06:37:48,498 WebSocket connection opened
+2023-03-15 06:37:48,571 ServerConnection created
+2023-03-15 06:39:31,429 WebSocket connection closed: code=1001, reason=None
+2023-03-15 08:12:20,211 WebSocket connection opened
+2023-03-15 08:12:20,212 ServerConnection created
+2023-03-15 08:43:31,815 WebSocket connection opened
+2023-03-15 08:43:31,891 ServerConnection created
+2023-03-15 08:49:53,168 WebSocket connection opened
+2023-03-15 08:49:53,170 ServerConnection created
+2023-03-15 08:50:48,979 WebSocket connection closed: code=1001, reason=None
+2023-03-15 08:52:37,387 WebSocket connection closed: code=1001, reason=None
+2023-03-15 08:54:31,166 WebSocket connection opened
+2023-03-15 08:54:31,240 ServerConnection created
+2023-03-15 09:00:40,077 WebSocket connection closed: code=1001, reason=None
+2023-03-15 09:02:12,685 WebSocket connection opened
+2023-03-15 09:02:12,686 ServerConnection created
+2023-03-15 09:02:15,579 WebSocket connection opened
+2023-03-15 09:02:15,653 ServerConnection created
+2023-03-15 09:02:49,471 WebSocket connection closed: code=1001, reason=None
+2023-03-15 09:04:12,725 WebSocket connection closed: code=1001, reason=None
+2023-03-15 09:07:44,465 WebSocket connection opened
+2023-03-15 09:07:44,538 ServerConnection created
+2023-03-15 09:07:59,350 WebSocket connection closed: code=1001, reason=None
+2023-03-15 09:16:23,666 WebSocket connection opened
+2023-03-15 09:16:23,739 ServerConnection created
+2023-03-15 10:12:20,052 WebSocket connection closed: code=1001, reason=None
+2023-03-15 14:58:42,249 WebSocket connection opened
+2023-03-15 14:58:42,250 ServerConnection created
+2023-03-15 15:40:39,574 WebSocket connection opened
+2023-03-15 15:40:39,575 ServerConnection created
+2023-03-15 15:46:40,320 WebSocket connection closed: code=1001, reason='WebSocket is closed due to suspension.'
+2023-03-15 15:46:43,367 WebSocket connection opened
+2023-03-15 15:46:43,442 ServerConnection created
+2023-03-15 16:30:36,005 WebSocket connection closed: code=None, reason=None
+2023-03-15 16:30:36,006 WebSocket connection closed: code=None, reason=None
+2023-03-15 16:30:36,006 WebSocket connection closed: code=None, reason=None
+2023-03-15 16:41:00,856 WebSocket connection opened
+2023-03-15 16:41:00,856 ServerConnection created
+2023-03-15 16:57:36,537 WebSocket connection opened
+2023-03-15 16:57:36,613 ServerConnection created
+2023-03-15 16:57:37,458 WebSocket connection closed: code=1001, reason=None
+2023-03-15 16:57:37,843 WebSocket connection opened
+2023-03-15 16:57:37,917 ServerConnection created
+2023-03-15 16:57:39,475 WebSocket connection closed: code=1001, reason=None
+2023-03-15 16:57:39,872 WebSocket connection opened
+2023-03-15 16:57:39,947 ServerConnection created
+2023-03-15 17:11:42,443 WebSocket connection closed: code=None, reason=None
+2023-03-15 17:31:24,214 WebSocket connection closed: code=None, reason=None
+2023-03-15 19:06:30,724 WebSocket connection opened
+2023-03-15 19:06:30,798 ServerConnection created
+2023-03-15 19:15:51,781 WebSocket connection closed: code=1001, reason=None
+2023-03-15 19:47:50,923 WebSocket connection opened
+2023-03-15 19:47:50,924 ServerConnection created
+2023-03-15 20:07:26,717 WebSocket connection opened
+2023-03-15 20:07:26,795 ServerConnection created
+2023-03-15 20:19:38,723 WebSocket connection closed: code=1001, reason=None
+2023-03-15 21:29:08,738 WebSocket connection opened
+2023-03-15 21:29:08,811 ServerConnection created
+2023-03-15 21:30:01,691 WebSocket connection closed: code=1001, reason=None
+2023-03-15 21:31:13,464 WebSocket connection opened
+2023-03-15 21:31:13,539 ServerConnection created
+2023-03-15 21:32:23,494 WebSocket connection closed: code=1001, reason=None
+2023-03-15 21:48:03,799 WebSocket connection closed: code=1001, reason=None
+2023-03-17 04:53:42,594 WebSocket connection opened
+2023-03-17 04:53:44,325 ServerConnection created
+2023-03-17 04:53:44,963 WebSocket connection closed: code=1001, reason=None
+2023-03-17 18:38:19,116 WebSocket connection opened
+2023-03-17 18:38:19,173 ServerConnection created
+2023-03-17 18:45:16,431 WebSocket connection closed: code=1001, reason=None
+2023-03-17 20:25:08,974 WebSocket connection opened
+2023-03-17 20:25:08,977 ServerConnection created
+2023-03-17 20:31:33,098 WebSocket connection closed: code=1001, reason=None
+2023-03-17 20:32:23,267 WebSocket connection opened
+2023-03-17 20:32:23,880 ServerConnection created
+2023-03-17 23:41:20,691 WebSocket connection closed: code=None, reason=None
+2023-03-18 13:09:38,510 WebSocket connection opened
+2023-03-18 13:09:40,048 ServerConnection created
+2023-03-18 13:11:14,798 WebSocket connection closed: code=1001, reason=None
+2023-03-18 13:11:23,214 WebSocket connection opened
+2023-03-18 13:11:23,287 ServerConnection created
+2023-03-18 13:12:03,860 WebSocket connection closed: code=1001, reason=None
+2023-03-18 15:22:48,227 WebSocket connection opened
+2023-03-18 15:22:48,228 ServerConnection created
+2023-03-18 15:23:57,391 WebSocket connection closed: code=1001, reason=None
+2023-03-18 15:24:11,307 WebSocket connection opened
+2023-03-18 15:24:11,380 ServerConnection created
+2023-03-18 15:26:09,299 WebSocket connection closed: code=1001, reason=None
+2023-03-19 10:09:18,027 WebSocket connection opened
+2023-03-19 10:09:18,028 ServerConnection created
+2023-03-19 10:09:27,012 WebSocket connection closed: code=1001, reason=None
+2023-03-20 09:47:01,006 WebSocket connection opened
+2023-03-20 09:47:01,496 ServerConnection created
+2023-03-20 13:21:07,775 WebSocket connection closed: code=1001, reason=None
+2023-03-21 15:34:14,639 WebSocket connection opened
+2023-03-21 15:34:16,321 ServerConnection created
+2023-03-21 17:45:01,377 WebSocket connection closed: code=None, reason=None
+2023-03-22 08:32:06,909 WebSocket connection opened
+2023-03-22 08:32:08,545 ServerConnection created
+2023-03-22 08:51:22,458 WebSocket connection closed: code=1001, reason=None
+2023-03-22 10:44:03,118 Uncaught exception GET /m3/m3/ws (85.2.241.22)
+HTTPServerRequest(protocol='https', host='demo.medisante-group.com', method='GET', uri='/m3/m3/ws', version='HTTP/1.1', remote_ip='85.2.241.22')
+Traceback (most recent call last):
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/websocket.py", line 956, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/web.py", line 3178, in wrapper
+    return method(self, *args, **kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/bokeh/server/views/ws.py", line 149, in open
+    raise ProtocolError("Token is expired.")
+bokeh.protocol.exceptions.ProtocolError: Token is expired.
+2023-04-05 09:43:23,210 Failed sending message as connection was closed
+2023-04-19 17:50:36,048 404 GET /m3/mhub (85.2.241.22) 0.60ms
+2023-04-19 17:55:30,840 404 GET /m3/mhub (85.2.241.22) 0.54ms
+2023-04-19 18:00:00,100 404 GET /m3/mhub (85.2.241.22) 0.53ms
+2023-04-19 18:00:42,301 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'demo.medisante-group.com:80'}
+2023-04-19 18:00:42,302 403 GET /m3/m3/ws (85.2.241.22) 0.86ms
+2023-04-19 18:05:19,444 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'demo.medisante-group.com:80'}
+2023-04-19 18:05:19,444 403 GET /m3/m3/ws (85.2.241.22) 0.76ms
+2023-04-19 18:06:06,998 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'demo.medisante-group.com:80'}
+2023-04-19 18:06:06,998 403 GET /m3/m3/ws (85.2.241.22) 0.76ms
+2023-04-19 18:10:43,265 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'demo.medisante-group.com:80'}
+2023-04-19 18:10:43,265 403 GET /m3/m3/ws (85.2.241.22) 0.79ms
+2023-04-19 18:38:27,466 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'demo.medisante-group.com:80'}
+2023-04-19 18:38:27,466 403 GET /m3/m3/ws (85.2.241.22) 0.85ms
+2023-04-19 18:38:52,345 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'demo.medisante-group.com:80'}
+2023-04-19 18:38:52,345 403 GET /m3/m3/ws (85.2.241.22) 0.71ms
+2023-04-19 18:39:57,145 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:39:57,145 403 GET /m3/m3/ws (85.2.241.22) 0.87ms
+2023-04-19 18:40:05,844 Refusing websocket connection from Origin 'https://demo.medisante-group.com';                       use --allow-websocket-origin=demo.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=demo.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:40:05,845 403 GET /m3/m3/ws (85.2.241.22) 0.79ms
+2023-04-19 18:42:46,667 Refusing websocket connection from Origin 'https://demo.medisante-group.com';                       use --allow-websocket-origin=demo.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=demo.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:42:46,667 403 GET /m3/m3/ws (85.2.241.22) 0.86ms
+2023-04-19 18:42:52,764 Refusing websocket connection from Origin 'https://demo.medisante-group.com';                       use --allow-websocket-origin=demo.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=demo.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:42:52,765 403 GET /m3/m3/ws (85.2.241.22) 0.72ms
+2023-04-19 18:43:06,943 Refusing websocket connection from Origin 'https://demo.medisante-group.com';                       use --allow-websocket-origin=demo.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=demo.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:43:06,943 403 GET /m3/m3/ws (85.2.241.22) 0.75ms
+2023-04-19 18:43:30,020 Refusing websocket connection from Origin 'https://dev.medisante-group.com';                       use --allow-websocket-origin=dev.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=dev.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:43:30,021 403 GET /m3/m3/ws (85.2.241.22) 0.73ms
+2023-04-19 18:43:39,309 Refusing websocket connection from Origin 'https://demo.medisante-group.com';                       use --allow-websocket-origin=demo.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=demo.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:43:39,310 403 GET /m3/m3/ws (85.2.241.22) 0.78ms
+2023-04-19 18:43:55,062 Refusing websocket connection from Origin 'https://demo.medisante-group.com';                       use --allow-websocket-origin=demo.medisante-group.com or set BOKEH_ALLOW_WS_ORIGIN=demo.medisante-group.com to permit this; currently we allow origins {'.medisante-group.com:80'}
+2023-04-19 18:43:55,062 403 GET /m3/m3/ws (85.2.241.22) 0.72ms
+2023-04-25 20:15:48,531 Uncaught exception GET /m3/m3/ws (213.55.240.129)
+HTTPServerRequest(protocol='https', host='demo.medisante-group.com', method='GET', uri='/m3/m3/ws', version='HTTP/1.1', remote_ip='213.55.240.129')
+Traceback (most recent call last):
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/websocket.py", line 956, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/web.py", line 3178, in wrapper
+    return method(self, *args, **kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/bokeh/server/views/ws.py", line 149, in open
+    raise ProtocolError("Token is expired.")
+bokeh.protocol.exceptions.ProtocolError: Token is expired.
+2023-04-27 06:42:48,754 Failed sending message as connection was closed
+2023-05-01 13:06:14,747 Failed sending message as connection was closed
+2023-05-02 14:46:20,467 Failed sending message as connection was closed
+2023-05-09 12:16:09,253 Uncaught exception GET /m3/m3/ws (85.2.241.22)
+HTTPServerRequest(protocol='https', host='demo.medisante-group.com', method='GET', uri='/m3/m3/ws', version='HTTP/1.1', remote_ip='85.2.241.22')
+Traceback (most recent call last):
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/websocket.py", line 956, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/web.py", line 3178, in wrapper
+    return method(self, *args, **kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/bokeh/server/views/ws.py", line 149, in open
+    raise ProtocolError("Token is expired.")
+bokeh.protocol.exceptions.ProtocolError: Token is expired.
+2023-06-05 15:01:37,763 Uncaught exception GET /m3/m3/ws (86.139.159.73)
+HTTPServerRequest(protocol='https', host='demo.medisante-group.com', method='GET', uri='/m3/m3/ws', version='HTTP/1.1', remote_ip='86.139.159.73')
+Traceback (most recent call last):
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/websocket.py", line 956, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/tornado/web.py", line 3178, in wrapper
+    return method(self, *args, **kwargs)
+  File "/home/bitnami/miniconda3/envs/b243_p39/lib/python3.9/site-packages/bokeh/server/views/ws.py", line 149, in open
+    raise ProtocolError("Token is expired.")
+bokeh.protocol.exceptions.ProtocolError: Token is expired.
