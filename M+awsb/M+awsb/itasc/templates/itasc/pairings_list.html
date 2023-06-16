@@ -1,0 +1,24 @@
+{% extends "itasc/home.html" %}
+{% block content2 %}
+<h2>Pairings</h2>
+<table class='table'>
+    <tr>
+        <th>Subject ID</th>
+        <th>Device IMEI</th>
+        <th>Action</th>
+
+    </tr>
+   {% if object_list %}
+    {% for pair in object_list %}
+    <tr>
+        <td>{{ pair.subject }}</td>
+        <td>{{ pair.device }}</td>
+        <td><a href="{% url 'itasc:pairings-delete' pair.id %}">Unpair</a></td>
+     </tr>
+    {% endfor %}
+</table>
+   {% else %}
+      <li>No pairings found</li>
+   {% endif %}
+{% endblock %}
+

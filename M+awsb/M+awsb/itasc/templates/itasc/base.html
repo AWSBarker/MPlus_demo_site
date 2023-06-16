@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% block title %}<title>M+iTASC</title>{% endblock %}
+  <meta charset="utf-8">
+  <!-- Add additional CSS in static file -->
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'itasc/styles.css' %}">
+</head>
+ <body>
+  <main>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-2">
+          {% block sidebar %}
+            <div class="sidebar-nav">
+              <p><a href="{% url 'itasc:dashboard' %}"><strong>Home</strong></a></p>
+                <p></p>
+              <p><a href="{% url 'itasc:pairings-create' %}"><strong>Pair</strong></a></p>
+                <p></p>
+              <p><a href="{% url 'admin:index' %}"><strong>Admin (login)</strong></a></p>
+              <br>
+              <br>
+              {% block login %} {% endblock %}
+              <br>
+              <br>
+              {% block f2 %} {% endblock %}
+            </div>
+         {% endblock %}
+            </div>
+              <div class="col-sm-10 ">
+                <h1>iTASC Dashboard v0.8</h1>
+                <p>M+hub D40g webhooks for iTASC trial (https://{{ myip }}/itasc/bp/) </p>
+                {% block content1 %} {% endblock %}
+                <br>
+                {% block content2 %} {% endblock %}
+            </div>
+        </div>
+      </div>
+  </main>
+ </body>
+</html>

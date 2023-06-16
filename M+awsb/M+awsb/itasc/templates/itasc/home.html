@@ -1,0 +1,18 @@
+{% extends "home/base.html" %}
+{% block content %}
+<h2>Pairings demo : allocation of M+ devices to trial subjects</h2>
+<p>Use the webhook "https://demo.medisante-group.com/itasc/bp/" in M+ hub with JSON / basic authentication</p>
+<p>Use admin/login to add subjects. Devices are automatically added by sending a initial reading</p>
+    <p><a href="{% url 'itasc:measurements-list' %}">Measures :</a><strong> {{ Nmeasures }}&emsp;</strong>
+    <a href="{% url 'itasc:devices-list' %}">   Devices :</a><strong>  {{ Ndevices }}&emsp;</strong>
+    <a href="{% url 'itasc:patients-list' %}">  Subjects :</a><strong>  {{ Npatients }}&emsp;</strong>
+    <a href="{% url 'itasc:pairings-list' %}">  Pairs :</a><strong> {{ Npairings }}&emsp;</strong></p></pre>
+    <p align="center" ><a  href="{% url 'itasc:pairings-create' %}" >| New Pair |   <a href="{% url 'itasc:pairings-list' %}">  Unpair |</a><br>
+{% endblock %}
+{% block content3 %}
+<p><a href="https://github.com/AWSBarker/itasc" target="_blank"><small>Source:</small></a></p>
+{% endblock %}
+
+
+
+

@@ -1,0 +1,18 @@
+{% load static %} <!-- all static founf in awsb.ddns.net/static. test comes from request_handler. bokeh 2.0.2 reqd -->
+{% block content %}
+<head>
+	<h2> {{ Intro | safe }} </h2>
+	<!-- h2> test request_handler {{ test | safe }} </h2 -->
+	<script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js" crossorigin="anonymous"></script>
+	<script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.2.min.js" crossorigin="anonymous"></script>
+	<script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.2.min.js" crossorigin="anonymous"></script>
+	<!--- COPY/PASTE SCRIPT HERE -->
+		{{ script | safe }}
+</head>
+<body>
+	<div>
+<!-- COPY/PASTE divs HERE
+		{{ div | safe }}-->
+	</div>
+</body>
+{% endblock %}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% extends "home/base.html" %}
+
+{% block content %}
+<h1>Add patient (& allocate Device)</h1>
+<p>Input patient's ID and select an available device OR put 0 for no device</p>
+<p>Ensure device webhook is set in M+hub https/..../M+hub/bp/ </p>
+<form method="post">
+    {{ form }}
+    <input type="submit" value="Save">
+</form>
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+        <ul class="messages">
+            {% for message in messages %}
+            <p></p>
+            <h3 {% if message.tags %} class=" {{ message.tags }} "{% endif %}> {{ message }}</h3>
+    {% endfor %}
+</ul>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

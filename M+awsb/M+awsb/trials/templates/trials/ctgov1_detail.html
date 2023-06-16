@@ -1,0 +1,12 @@
+{% extends 'home/base.html' %}
+{% block content %}
+  <h2><a href="{{ ctgov1.url }}" target="_blank" rel="noopener noreferrer">{{ ctgov1.nct_id }}</a> {{ ctgov1.brief_title }}</h2>
+<!--  <p><strong>Trial URL:</strong> </p> -- author detail link not yet defined -->
+  <p><strong>Description:</strong> {{ ctgov1.description }}</p>
+  <p><strong>Phase:</strong> {{ ctgov1.phase }} <strong> Enrollment </strong>: {{ ctgov1.enrollment }} Ranking : {{ ctgov1.drank_final }}</p>
+  <p><strong>Updated:</strong> {{ ctgov1.updated }}</p>
+  <p><strong>Alloc:</strong> {{ ctgov1.alloc__username }}</p>
+  {% for c in contacts %}
+    <p><strong>contact:</strong> {{ c.contact_type }} {{ c.name }} {{ c.email }} {{ c.phone }}</p>
+  {% endfor %}
+{% endblock %}

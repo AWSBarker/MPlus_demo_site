@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+{% extends "home/base.html" %}
+
+{% block content %}
+<h1>Edit Allocated device - subject</h1>
+<p>Input patient's ID and select an available device OR put 0 for no device</p>
+<p>Ensure device webhook is set in M+hub https/..../M+hub/bp/ </p>
+<form method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Save">
+</form>
+{% endblock %}

@@ -1,0 +1,51 @@
+{% extends 'home/base.html' %}
+{% block content %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>M+ trials</title>
+  </head>
+ <body>
+  <h1>Trial search filters</h1>
+    {% if user.is_authenticated %}
+        <p>Your account doesn't have access to this page. To proceed,
+        please login with an account that has access.</p>
+
+      <form method="get">
+        {{ filter.form }}
+        <p><button type="submit"><strong>===  Apply Filters  ===</strong></button></p>
+      </form>
+          <table class="table table-dark table-striped">
+              <thead>
+                  <tr>
+                    <th>nct ID</th>
+                    <th>Owner</th>
+                    <th>Ranked</th>
+                    <th>Description of trial</th>
+                    <th>Notes</th>
+                    <th>Updated</th>
+                  </tr>
+              </thead>
+                  <tbody>
+                  {% if filter.qs %}
+                  {% for trial in filter.qs %}
+                    <tr>
+                      <td><a href="{{ trial.get_absolute_url }}">{{ trial.nct_id }} </a></td>
+                      <td>{{ trial.alloc }} </td>
+                      <td>{{ trial.drank_final}}</td>
+                      <td>{{ trial.brief_title }}</td>
+                      <td>{{ trial.notes }}</td>
+                      <td>{{ trial.updated }}</td>
+                    </tr>
+                  {% endfor %}
+                  {% else %}
+                    <p>There are no trials.</p>
+                  {% endif %}
+                  </tbody>
+          </table2>
+    {% else %}
+        <p>Please login to see this page.</p>
+    {% endif %}
+</body>
+</html>
+{% endblock %}

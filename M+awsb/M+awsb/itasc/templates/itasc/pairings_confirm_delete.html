@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+{% extends "itasc/home.html" %}
+{% block content2 %}
+<h1>Unpair a device - subject</h1>
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <p>Are you sure you want to unpair "{{ object }}"?</p>
+    <p>By unpairing you don't lose any measures just the pairing</p>
+    <button type="submit">Confirm</button>
+    <a href="{{ view.get_success_url }}" class="btn btn-default">Cancel</a>
+</form>
+{% endblock %}

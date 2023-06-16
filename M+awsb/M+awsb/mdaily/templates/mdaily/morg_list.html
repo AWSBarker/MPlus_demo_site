@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>M+ Orgs</h2>
+    <ul>
+        {% for morg in object_list %}
+            <li> {{ morg.name }} {{ morg.showas }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

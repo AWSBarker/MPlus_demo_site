@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+{% extends "itasc/base.html" %}
+
+{% block content %}
+<h1>Delete device - subject</h1>
+<p>Input patient's ID and select an available device OR put 0 for no device</p>
+<p>Ensure device webhook is set in M+hub https/..../M+hub/bp/ </p>
+<form method="POST">
+    {% csrf_token %}
+    <p>Are you sure you want to delete "{{ object }}"?</p>
+    <button type="submit">Confirm</button>
+</form>
+{% endblock %}

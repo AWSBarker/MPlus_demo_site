@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <form method="get">
+    {{ filter.form.as_p }}
+    <button type="submit">Search</button>
+  </form>
+  <ul>
+  {% for dev in filter.qs %}
+    <li>{{ dev.imei }} - {{ dev.org.name }} {{ dev.last_measure_at }}{{ dev.count }}</li>
+  {% endfor %}
+  </ul>
+{% endblock %}
