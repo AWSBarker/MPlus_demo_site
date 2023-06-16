@@ -1,0 +1,1 @@
+/home/ab/ownCloud/PycharmProjects/C19/data/dfall.pkl

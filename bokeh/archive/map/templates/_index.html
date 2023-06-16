@@ -1,0 +1,43 @@
+{% extends base %}
+
+{% block preamble %}
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Montserrat|Quicksand');
+        body {
+            font-family: "Quicksand";
+        }
+        .bk-root {
+            font-family: "Quicksand" !important;
+        }
+        .plot-tooltip {
+            margin: 10px;
+        }
+        .slick-header-columns, .slick-header-column {
+            background-color: #DDDDDD !important;
+            background-image: none !important;
+        }
+    </style>
+{% endblock %}
+
+{% block contents%}
+    <div class="container">
+        <div class="row my-4">
+            <div class="col-3">
+                <h1>Flights</h1>
+            </div>
+            <div class="col-9">
+                <h4>
+                    Realtime feed lac leman flights
+                </h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                {{ embed(roots.g1) }}
+            </div>
+        </div>
+        </div>
+    </div>
+{% endblock %}

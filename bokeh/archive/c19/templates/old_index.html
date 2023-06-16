@@ -1,0 +1,46 @@
+{% extends base %}
+
+{% block preamble %}
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Montserrat|Quicksand');
+        body {
+            font-family: "Quicksand";
+        }
+        .bk-root {
+            font-family: "Quicksand" !important;
+        }
+        .plot-tooltip {
+            margin: 10px;
+        }
+        .slick-header-columns, .slick-header-column {
+            background-color: #ADDDDD !important;
+            background-image: none !important;
+        }
+    </style>
+{% endblock %}
+
+{% block contents%}
+    <div class="container">
+        <div class="row my-4">
+            <div class="col-2">
+                <h2>COVID 19</h2>
+            </div>
+            <div class="col-8">
+                <h2>
+                    Assess Your Current Risk.
+                </h2>
+        <h3>
+            Select your details below
+        </h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                {{ embed(roots.g1) }}
+            </div>
+        </div>
+        </div>
+    </div>
+{% endblock %}
